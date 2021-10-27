@@ -1,5 +1,1 @@
-Test public repo
-
-this is from private repo
-
-from forked repo
+development done and ready to push to public repo
